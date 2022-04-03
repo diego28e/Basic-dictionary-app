@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Oswald:wght@500&family=Rubik+Moonrocks&display=swap');
+
+
+body{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 40px;
+}
+.container{
+    background: rgb(56, 52, 52);
+    padding:1rem;
+}
+
+#traducir{
+    padding:8px;
+    border-radius: 5px;
+}
+
+
+#traducir:hover{
+background-color: rgb(78, 77, 77);
+color:white;
+font-weight: bold;
+}
